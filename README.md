@@ -1,0 +1,1 @@
+simple graphQL, Prove Of Concept with nodejs, mongoDB, reactJS
